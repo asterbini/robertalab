@@ -1,6 +1,6 @@
 
 
-all:	stop lang build start
+all:	stop lang buildserver start
 
 run:
 	./ora.sh --start-from-git
@@ -8,8 +8,10 @@ run:
 createdb:
 	./ora.sh --createemptydb OpenRobertaServer/db-2.2.7/openroberta-db
 
-build:
-	#mvn -f OpenRobertaParent install -DskipTests
+buildall:
+	mvn -f OpenRobertaParent install -DskipTests
+
+buildserver:
 	mvn -f OpenRobertaServer install -DskipTests
 
 stop:
