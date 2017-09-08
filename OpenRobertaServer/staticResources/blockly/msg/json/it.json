@@ -544,7 +544,7 @@
 	"MESSAGE_EDIT_SAVE_GROUP_AS": "Your group has been created",
 	"MESSAGE_EDIT_SAVE_PROGRAM": "Il tuo programma è stato salvato",
 	"MESSAGE_EDIT_SAVE_PROGRAM_AS": "Il tuo programma è stato salvato come '$'",
-	"MESSAGE_EDIT_START": "Il tuo programma '$' sarà esequito fra un momento!",
+	"MESSAGE_EDIT_START": "Il tuo programma '$' sarà eseguito fra un momento!",
 	"MESSAGE_FIRMWARE_ERROR": "C'è un conflitto tra la versione della firmware del tuo robot e il Open Roberta Lab. Ci contatti per favore.",
 	"MESSAGE_GROUP_DELETED": "Group »$« was deleted",
 	"MESSAGE_INVALID_NAME": "Inserisci un nome corretto per favore. Un nome corretto comincia con una lettera e puo solo contenere lettere o numeri.",
